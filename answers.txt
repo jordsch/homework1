@@ -1,0 +1,6 @@
+What is the difference between a merge and a rebase?
+The difference between a merge and rebase somewhat deals with how theyre being used.
+Typically when merging, you would have peformed a fetch, and when you fetch a commit you have not had before, you would use merge to essentially add the new code to your repository.
+This is literally "merging" a commit into your repository thus updating your repository.
+Now when dealing with rebase, it also has the functionality of updating too. When you perform a rebase, instead of merging, you essentially make your branch/repository start at whatever rebase you specify.
+What occurs is that it is as if you just freshly created a branch off the specified commit. (updating the start of your branch to a later commit)
