@@ -1,0 +1,5 @@
+What is a remote repository?
+A remote repository, in specific example terms is the repositories we create on github
+Essentially it is a repository you can push and pull from and is hosted somewhere, that somewhere being github for this class.
+To talk about the differences from a local repository, the difference is that a local repository is locally on someones machine,
+e.g. the homework1 folder I cloned onto my computer is local, hence why I need to commit changes and then push them onto the remote repository.
